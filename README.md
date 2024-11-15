@@ -1,8 +1,8 @@
 <h1>This is Love Calculator Project With Javscript 🤩</h1>
 
-<h2> Check It With Github Link <a href="">Love Calculator</a></h2>
+<h2> Check it in Github Link <a href="https://maryama-mohamed.github.io/Love-Calculator/">Love Calculator</a></h2>
 
-<h2>Chek it In netlify <a href="">Love Calculator </a> </h2>
+<h2> Chek it In netlify Account <a href="https://love-calculator-app.netlify.app/">Love Calculator </a> </h2>
 
 ![layla](https://github.com/user-attachments/assets/deb64ccf-874d-4ced-8335-66ac559d09c2)
 ![love cal](https://github.com/user-attachments/assets/bcb9ddde-413c-43fd-b4a4-58ed37fb0f2f)
